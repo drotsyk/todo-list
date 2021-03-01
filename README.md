@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 <h1>Result <a href="https://drotsyk.github.io/todo-list/">preview<a></h1>
+  
+<img src="https://user-images.githubusercontent.com/43176477/109454071-84e74780-7a64-11eb-835b-29c30e0d0c33.png">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
